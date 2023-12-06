@@ -6,7 +6,8 @@ Carregando uma Imagem:
 Faça o upload de uma imagem para o ambiente Colab.
 Especifique o caminho da imagem na seção # Carregando a imagem, substituindo '/content/pessoa.jpg' pelo caminho da sua imagem.
 python
-Copy code
+
+
 image = cv2.imread('/caminho/da/sua/imagem.jpg')
 Executando o Código:
 
