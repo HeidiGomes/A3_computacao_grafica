@@ -8,18 +8,18 @@ Este programa utiliza a linguagem de programação Python e oferece um conjunto 
 
 ## Google Colab:
 
-## 1-Carregando uma Imagem:
+## 1 - Carregando uma Imagem:
 - Faça o upload de uma imagem para o ambiente Colab.
 - Especifique o caminho da imagem na seção # Carregando a imagem, substituindo '/content/pessoa.jpg' pelo caminho da sua imagem.
   python
   
 image = cv2.imread('/caminho/da/sua/imagem.jpg')
 
-## 1-Executando o Código:
+## 1 - Executando o Código:
 
 - Execute todas as células do notebook.
 
-## 2 -Interagindo com o Menu:
+## 2 - Interagindo com o Menu:
 
  - Um menu interativo permitirá que você escolha a operação desejada para o processamento da imagem.
 
