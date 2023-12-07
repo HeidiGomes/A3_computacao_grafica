@@ -45,7 +45,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import time
 
--Certifique-se de que a biblioteca OpenCV está instalada no ambiente do seu Jupyter Notebook.
+- Certifique-se de que a biblioteca OpenCV está instalada no ambiente do seu Jupyter Notebook.
 
 ## Siga as Etapas 1-4 do Google Colab.
 Este programa proporciona uma experiência interativa de processamento de imagens, permitindo que você explore diversas operações de forma fácil e eficaz. Sinta-se à vontade para ajustar o código conforme necessário e aproveitar as capacidades de processamento de imagem oferecidas.
