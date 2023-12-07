@@ -1,6 +1,6 @@
 # Processamento de Imagens no Colab/Jupyter Notebook
 
-Este script em Python oferece um conjunto de funcionalidades para o processamento de imagens, implementado utilizando a biblioteca OpenCV. Desenvolvido no ambiente Google Colab, o código possibilita operações como translação, rotação, escalonamento, desfoque, inversão de cores, detecção de bordas, ajuste de contraste/brilho, e conversão para escala de cinza.
+Este programa utiliza a linguagem de programação Python e oferece um conjunto de funcionalidades para o processamento de imagens, implementado utilizando a biblioteca OpenCV. Desenvolvido no ambiente Google Colab, o código possibilita operações como translação, rotação, escalonamento, desfoque, inversão de cores, detecção de bordas, ajuste de contraste/brilho, e conversão para escala de cinza.
 
 
 
@@ -38,7 +38,7 @@ Abra um terminal e execute o seguinte comando para instalar a biblioteca OpenCV.
  - pip install opencv-python
    
 ## 2 - Adaptação do Código:
- - No script, altere a linha de importação para:
+ - No código, altere a linha de importação para:
 
 import cv2
 import numpy as np
@@ -47,8 +47,8 @@ import time
 
 -Certifique-se de que a biblioteca OpenCV está instalada no ambiente do seu Jupyter Notebook.
 
-##Siga as Etapas 1-4 do Google Colab.
-Este script proporciona uma experiência interativa de processamento de imagens, permitindo que você explore diversas operações de forma fácil e eficaz. Sinta-se à vontade para ajustar o código conforme necessário e aproveitar as capacidades de processamento de imagem oferecidas.
+## Siga as Etapas 1-4 do Google Colab.
+Este programa proporciona uma experiência interativa de processamento de imagens, permitindo que você explore diversas operações de forma fácil e eficaz. Sinta-se à vontade para ajustar o código conforme necessário e aproveitar as capacidades de processamento de imagem oferecidas.
 
 
 
