@@ -28,7 +28,7 @@ image = cv2.imread('/caminho/da/sua/imagem.jpg')
  - Ao final de cada operação, escolha se deseja continuar o processamento ou encerrar o programa.
 
    
-#Jupyter Notebook:
+# Jupyter Notebook:
 
 Caso deseje utilizar o Jupyter Notebook, siga estas etapas adicionais:
 
