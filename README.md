@@ -41,8 +41,11 @@ Abra um terminal e execute o seguinte comando para instalar a biblioteca OpenCV.
  - No código, altere a linha de importação para:
 
 import cv2
+
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 import time
 
 - Certifique-se de que a biblioteca OpenCV está instalada no ambiente do seu Jupyter Notebook.
